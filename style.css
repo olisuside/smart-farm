@@ -1,8 +1,16 @@
-.jumbotron {
-  padding: 2rem 1rem;
-  background-color: #212529ff;
-  color: white;
+body,
+html {
+  height: 100%;
 }
-.txt1 {
-  font-size: 1.5rem;
+.navbar-bg {
+  background: rgba(87, 111, 114, 1);
+}
+.gradient {
+  background: rgb(125, 157, 156);
+  background: linear-gradient(155deg, rgba(125, 157, 156, 1) 49%, rgba(87, 111, 114, 1) 100%);
+}
+
+.page-header {
+  margin-top: auto;
+  margin-bottom: auto;
 }
