@@ -1,0 +1,32 @@
+body,
+html {
+  height: 100%;
+}
+.navbar-bg {
+  background: rgb(115, 169, 173);
+}
+.gradient {
+  background: rgb(115, 169, 173);
+  background: linear-gradient(156deg, rgba(115, 169, 173, 1) 49%, rgba(144, 200, 172, 1) 100%);
+}
+
+.page-header {
+  margin-top: auto;
+  margin-bottom: auto;
+  color: white;
+}
+
+.h-button {
+  border: none;
+  background: #ffffff00;
+  color: white;
+  border: #f5f0bb 3px solid;
+  border-radius: 5px;
+  padding: 12px 20px;
+  margin-top: 10px;
+}
+
+.h-button:hover {
+  background-color: #f5f0bb;
+  color: #73a9ad;
+}
